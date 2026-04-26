@@ -1,0 +1,1395 @@
+{
+  "contacts": [
+    {
+      "id": "cd42a91e-e952-4a93-a0ac-e215694126a7",
+      "first_name": "David",
+      "last_name": "Langley",
+      "email": null,
+      "phone": null,
+      "job_title": "Managing Director",
+      "company": "Opticks.",
+      "status": "lead",
+      "lead_source": "other",
+      "tags": null,
+      "notes": null,
+      "linkedin_url": null,
+      "owner_id": null,
+      "created_by": null,
+      "created_at": "2026-04-16T22:08:35.834337+00:00",
+      "updated_at": "2026-04-19T20:05:22.455098+00:00",
+      "avatar_url": "https://breakcold.fsn1.your-objectstorage.com/breakcold/LINKEDIN/ACoAABNpdAUB8MVzrCoEosc7lOzrjMWeTcEnMeQ/avatar.jpeg",
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    },
+    {
+      "id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "first_name": "Dave",
+      "last_name": "Alderton",
+      "email": "davealderton@outlook.com",
+      "phone": "07887988004",
+      "job_title": "Managing Director",
+      "company": "Silver Forest Limited",
+      "status": "previous_customer",
+      "lead_source": "referral",
+      "tags": null,
+      "notes": "Test Note",
+      "linkedin_url": "https://www.linkedin.com/in/dave-alderton-70225112/",
+      "owner_id": null,
+      "created_by": null,
+      "created_at": "2026-04-15T22:39:53.539968+00:00",
+      "updated_at": "2026-04-19T20:05:48.147675+00:00",
+      "avatar_url": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    },
+    {
+      "id": "e95e37b5-628d-44a8-9a07-8b024d69d8ee",
+      "first_name": "Tania",
+      "last_name": "Sasik",
+      "email": "taniasasik@gmail.com",
+      "phone": "+61 413 117791",
+      "job_title": "Coach",
+      "company": null,
+      "status": "lost",
+      "lead_source": "website",
+      "tags": null,
+      "notes": null,
+      "linkedin_url": null,
+      "owner_id": null,
+      "created_by": null,
+      "created_at": "2026-04-20T11:15:46.340466+00:00",
+      "updated_at": "2026-04-24T20:30:09.540753+00:00",
+      "avatar_url": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    },
+    {
+      "id": "84c1e5b5-b524-4d2e-adab-179c27679168",
+      "first_name": "Test",
+      "last_name": "4",
+      "email": "davejalderton@gmail.com",
+      "phone": null,
+      "job_title": null,
+      "company": null,
+      "status": "lead",
+      "lead_source": "website",
+      "tags": null,
+      "notes": null,
+      "linkedin_url": null,
+      "owner_id": null,
+      "created_by": null,
+      "created_at": "2026-04-19T21:01:00.793556+00:00",
+      "updated_at": "2026-04-24T20:32:34.542492+00:00",
+      "avatar_url": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    }
+  ],
+  "deals": [
+    {
+      "id": "d903fa96-9589-41bf-8f41-995b56a3724b",
+      "title": "Dave Alderton — Move the Needle",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "stage": "previous_customer",
+      "sub_status": null,
+      "lead_source": null,
+      "value": 347,
+      "currency": "GBP",
+      "programme_id": "d11ce8ac-5ab8-48cb-a470-7502a183b2bf",
+      "expected_close_date": null,
+      "lost_reason": null,
+      "notes": null,
+      "owner_id": null,
+      "created_by": null,
+      "created_at": "2026-04-16T09:21:27.031548+00:00",
+      "updated_at": "2026-04-19T20:04:12.5649+00:00",
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "zoom_meeting_id": null,
+      "scheduled_at": null
+    },
+    {
+      "id": "1bd230e7-ceb7-43b0-9aa1-618b86ddff37",
+      "title": "Tania — Discovery Call",
+      "contact_id": "e95e37b5-628d-44a8-9a07-8b024d69d8ee",
+      "stage": "lost",
+      "sub_status": null,
+      "lead_source": "website",
+      "value": 0,
+      "currency": "GBP",
+      "programme_id": null,
+      "expected_close_date": null,
+      "lost_reason": "This was a call with Tania, who was potentially looking at being a coach in the system. It was a discovery call just to work out what she wanted to do. Not a customer, but could well be a coach in the future.",
+      "notes": "Interesting Conversation, wanted to coach but not to do funnel, sales etc. maybe one for when I do multi coach",
+      "owner_id": null,
+      "created_by": null,
+      "created_at": "2026-04-20T11:15:46.64389+00:00",
+      "updated_at": "2026-04-24T20:28:55.116149+00:00",
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "zoom_meeting_id": 72897056998,
+      "scheduled_at": null
+    }
+  ],
+  "engagements": [
+    {
+      "id": "c142ee1e-31d1-4226-829e-af04b3f640a5",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "programme_id": "d11ce8ac-5ab8-48cb-a470-7502a183b2bf",
+      "status": "active",
+      "start_date": "2026-04-28",
+      "end_date": null,
+      "zoom_link": null,
+      "zoom_meeting_id": null,
+      "clickup_list_id": "158535474",
+      "xero_contact_id": "2457383e-567f-40d7-b835-2e51612d096a",
+      "billing_start_date": "2026-04-28",
+      "monthly_fee": 347,
+      "currency": "GBP",
+      "notes": null,
+      "owner_id": null,
+      "created_by": null,
+      "created_at": "2026-04-16T09:38:00.239243+00:00",
+      "updated_at": "2026-04-20T14:38:51.546883+00:00",
+      "next_invoice_raise_date": "2026-05-12",
+      "next_invoice_due_date": "2026-05-19",
+      "session_time": "10:00",
+      "xero_repeating_invoice_id": "da39a2e8-6df3-4061-b498-faf8dc5649f5",
+      "billing_period_weeks": 4,
+      "clickup_status_mappings": {
+        "must_do": [
+          "to do"
+        ],
+        "waiting": [
+          "waiting on external party"
+        ],
+        "would_like": [
+          "to do"
+        ]
+      },
+      "time_block_email_days": [],
+      "send_post_session_email": true,
+      "send_checkin_email": true,
+      "booking_slot_id": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "zoom_meeting_end_date": null,
+      "selection_token": null,
+      "selection_reminder_3d_at": null,
+      "selection_reminder_7d_at": null,
+      "last_review_sent_at": null
+    }
+  ],
+  "sessions": [
+    {
+      "id": "13fc8988-451c-44f7-80d1-1690ea8e25a7",
+      "engagement_id": "c142ee1e-31d1-4226-829e-af04b3f640a5",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "scheduled_at": "2026-04-28T09:00:00+00:00",
+      "duration_mins": 40,
+      "status": "completed",
+      "zoom_link": null,
+      "action_items": [
+        {
+          "id": "22f05c93-bc7f-4aa9-965a-bfd41cb734a7",
+          "text": "121- BNI Dan Lunzaga 121",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869b0q83h",
+          "clickup_priority": "urgent",
+          "clickup_time_block": "Monday"
+        },
+        {
+          "id": "b459077f-0b18-4462-ba07-4dfba331f66f",
+          "text": "CF- Ability to remove a Page 2 PDF",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869b0q4bp",
+          "clickup_priority": "urgent",
+          "clickup_time_block": "Tuesday"
+        },
+        {
+          "id": "9118bcd9-9f26-472e-b46f-3f2204303e1e",
+          "text": "121- Tabitha",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869b0q6kj",
+          "clickup_priority": "high",
+          "clickup_time_block": "Tuesday"
+        },
+        {
+          "id": "60ec1ae8-e59c-4df2-bc06-4039c2cc8cca",
+          "text": "Look at SocialBee Scheduler",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869b0q61k",
+          "clickup_priority": "high",
+          "clickup_time_block": "Monday"
+        },
+        {
+          "id": "d2ffaa03-205a-48f8-ae6b-159b8c522027",
+          "text": "CF- Send new logo to Tim @ Currys",
+          "source": "clickup",
+          "clickup_status": "waiting on external party",
+          "clickup_task_id": "869ahdphp",
+          "clickup_priority": "high",
+          "clickup_time_block": null
+        },
+        {
+          "id": "d63bb51b-b6f6-41cd-8f79-fd6956e23e9c",
+          "text": "Move money from Atom Bank",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869crfnzf",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "5d420808-71de-41a9-806a-ebc807c9e76d",
+          "text": "Decide on Networking",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869crfnv2",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "0eadeb12-6d12-4d36-8a40-631a7ccecd80",
+          "text": "Speak to Doctors to amend prescription to repeat",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869crfnpf",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "3cd8b06d-f0d3-4cb2-aa24-19f70572d02b",
+          "text": "Onboard James",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869c9rqt9",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "ffc8970a-82d6-4502-bbf3-bbede17bb0d3",
+          "text": "Onboard Claire",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869c9rqt6",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "8e6e46a7-bb83-41d0-99be-7fc8be63f3b7",
+          "text": "Full Run through with 2 dogs, one through form and another through chat",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869c9rqgn",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "5fb9d0b2-c0b1-4bbf-824c-9e33a29e7b5d",
+          "text": "Delete all Data in Airtable",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869c9rqg7",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "9664f8f2-ed5e-45b9-bb05-186d1127cf6e",
+          "text": "Map Tally Form with Zapier",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869c9rqg4",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "6d0017a8-9993-4e47-9d61-09dae654db03",
+          "text": "Finish Tally Form",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869c9rqg0",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "f0696af1-732a-4f1d-822d-c9902313bac1",
+          "text": "Mailboxx- get clients up to date",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869c7p7hn",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "8df16eff-242c-4d90-8cfb-a1fb68e1f455",
+          "text": "CF- AMS_- Deals https://flex.cfcorporate.co.uk/deals/172416, 172450, 172411, 27490, 27527, 172886",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869b277eh",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "a738402c-325e-4c4d-9b16-2722334b0b96",
+          "text": "121 with Zohaib",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869b0pzcj",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "77e275b6-d6b3-4c62-b9b5-ce71417be345",
+          "text": "121- Andrew Myles - Web Guy",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869ax09qa",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "116763d4-9ae5-4232-9a5c-ebc8aada397d",
+          "text": "121 with Jon Walkington",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869athxm1",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "ec9243c6-921a-40a3-96e9-a94c6c006aec",
+          "text": "CF- Docusign deal with Multiple numbers international",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869aq0aur",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "ae78b63d-eb69-4260-babb-911a3c546bf8",
+          "text": "121- Avril",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869am98xy",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "2e95b47d-7c2d-4b71-9df1-46a640e5084c",
+          "text": "121 with Charne",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869ajfdze",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "5455f3fe-f358-4a29-8228-2b25cc84118a",
+          "text": "121 with Jaanika",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869ajfdhy",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "18a98bb1-e646-459b-b860-45fa22fce51e",
+          "text": "CF- Amendment to 60 & 45 days only",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869af05yw",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "f9817f06-c50e-4a10-8a26-32697d232ac2",
+          "text": "CF- Flexpay change to quote doc",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869af05xn",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "01c1aed9-4db0-4cf9-bf3f-c810731011f2",
+          "text": "CF- Red Bubble on Dealer View when they can do nothing about it",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8699yt3nv",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "972fa94d-b865-446a-822f-8ecfff831ffc",
+          "text": "CF- Education Customer is requiring a Reg Number by default and should not",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8699yt0nj",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "f684bcce-fe27-49f3-83a2-4f98557965f4",
+          "text": "BNI- GAINS Sheet",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8699y91gp",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "fa4578b0-81f3-4d7f-b152-612f265cf2a3",
+          "text": "CF- C348616- remove from DB",
+          "source": "clickup",
+          "clickup_status": "waiting on external party",
+          "clickup_task_id": "8699t5mrq",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "6fdabcaa-b8aa-4d10-bf26-2b4b32feda06",
+          "text": "CF- Remove Co-Term profiles from flex",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8699t5mje",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "2bdae57e-cb6f-4c23-a9bf-b8d33aa5f619",
+          "text": "The Help Bench® - Record the CLEAR Accountability Course",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "8699gb6d9",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "5b724580-4720-4347-8cc0-4e2f68d5327b",
+          "text": "The Help Bench® - Rewrite the Ebook",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "8699gb65k",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "da7ed328-b7da-4dad-ab40-85f7cebac146",
+          "text": "Mailboxx- Tara Appleton - Early July",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8699gaknt",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "3e475fe7-2da0-45ce-92ef-44730e45e11a",
+          "text": "Mailboxx- Chase Scott Bell",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "8699dz7aw",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "d2c2cb0b-3707-4cbe-a986-f4af9c1c0ceb",
+          "text": "CF- Test Note AMS in new UAT Leasesoft",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8699dz329",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "5ded7723-8e29-4f23-bfd7-a2fee3e2bcd4",
+          "text": "CF- Speak to Chris about Co-term in Flex",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "86993nt90",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "143146cb-cfc3-412c-bc61-d5175f6e7f61",
+          "text": "The Help Bench®- On back of TAP Business Cards or new ones",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "8698eujn8",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "b5146c16-724e-45a0-9d19-0cada969137e",
+          "text": "121 - with Ekta for Mailboxx",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8698euj4q",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "a3b3bc80-56be-4a81-93b0-7c0bab86bd19",
+          "text": "TAP- Produce Clickup Template, Checklist and Video Walk through",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86988m1rp",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "95e611ec-0ab8-4de6-811a-429a766df3ad",
+          "text": "TAP- Record GRIP Goals Session for Lead Magnet",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86988m1jj",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "a1fe325e-9fcc-45ee-a008-72f94733f72c",
+          "text": "Personal- AC Training",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869827cah",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "c19f993d-86de-463b-9de3-79eb3df52d67",
+          "text": "Add Stuart Testimonial to Website",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "86980vf3d",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "bb7dd29f-0f45-477c-9854-8c0bce4b4801",
+          "text": "Mailboxx- Sophie- Shareholders Agreement - Finalise and Amend",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8697phx90",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "24ffaca2-beac-4651-bc2a-6a5b933c8a08",
+          "text": "CF- Remove School URN From Reg Number field on Doc Production",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8697kg23r",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "4d4317b8-4094-4d0b-b151-a0f1d2636e1e",
+          "text": "Email List for TAP",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "869747t56",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "8cd2173a-1aa3-4e09-8175-8dc421f55cca",
+          "text": "Sales Funnel for TAP",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "869747t4f",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "e546a004-43a8-4725-9e03-64985f20eba9",
+          "text": "Linkedin Commenting on people who have a new contract or growing",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "869747pgp",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "276adf18-308a-4665-8b81-215a77471a9e",
+          "text": "CF- Speak to Mike about Outsourcing again with the introduction of the new Calculators",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "869747nx5",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "29592f17-aff6-4568-b872-e16dcaf8786a",
+          "text": "Amend Menu and Footer on SFC site",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "869747h5g",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "291e9e5c-82a4-4cc6-aa46-bcc26aaf23bf",
+          "text": "Kleo and Tapilo for Linkedin Content",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "8696ykmwm",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "4c41986c-4822-4b7e-a199-26f104bffd8a",
+          "text": "Sam Sayer 121",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "8696qzfzf",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "ad903ee7-2e68-4494-88d3-7dcb551c74cf",
+          "text": "Nick MCCulloch Testimonial",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "8696ptc30",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "4e926596-1d94-4bf8-9846-7041704ac3df",
+          "text": "Change Hotjar to Mouseflow on TAP",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "86968z462",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "6c89d788-3656-4083-a466-a69cc0cd3eb6",
+          "text": "Google Search Console issues- The Accountability Partners",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "86968z41u",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "bf5a51a3-a0c0-43bb-8e19-0f7af9abfd97",
+          "text": "Follow up with Mike Francis- Stability IT",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "8695yy54p",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "0e96549a-c0e5-43c2-8b6f-729bda92fed1",
+          "text": "Chase SFF@cfcorporate.co.uk",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "8695wku8g",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "cb9324c9-a02f-438c-bbff-2593ed4d5c8c",
+          "text": "Hubspot Contacts Uploaded- Upload Non emails as task to get them.",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "8695d1kz8",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "c9880ba9-499f-4f4c-b544-79cfffa8fa08",
+          "text": "Get 5 Specific Management & Leadership Coaches BNI",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86951jd6g",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "4d2350a3-3b5e-4c88-a0d1-2f143b0d5735",
+          "text": "Get 5 Specific VA's BNI",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86951jcqb",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "b3728cbd-a00a-40c7-a081-6a4f9a645fd8",
+          "text": "Get 5 Specific Sales Coaches BNI",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86951jck8",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "bc1da2c7-0df4-4a80-a7a8-019ce545fd36",
+          "text": "Get 5 Specific Social Media/Web Companies BNI",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86951jcej",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "11bbc800-7d9b-483f-801b-b94050defd78",
+          "text": "Get 5 Specific Accountants BNI",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86951jc5w",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "8ec24077-1d16-4234-9939-93873fbb15ec",
+          "text": "Paul Robinson - Potential Lead- Add to Hubspot and E-mail List",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "86950kn2m",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "caad6b45-9582-427e-9882-a45080c0f62e",
+          "text": "Write Case study 60 seconds once Pam has sent it.",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "86950k8j1",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "e8c00b2e-09cb-44c7-a4bf-1b5b5c5e55cf",
+          "text": "Lead magnet- As above but PDF",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "8694cn057",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "56c39759-dc1a-40cc-afbc-bd61a102db06",
+          "text": "Website- Back links to Consulting",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "8694cmz5y",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "59399d40-d049-4b77-a4a4-41c3db4dafc7",
+          "text": "Website- Write some blogs",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "8694cmyzv",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "49787e77-465c-4aed-aab1-9ab8ffda0d2b",
+          "text": "Review from Denise on MTN",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "869492y48",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "0090e80a-8deb-436f-b920-417445c59e46",
+          "text": "Amend Google Business Profile once rebrand",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "869492wx9",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "3d2d26bc-c049-413c-a3a8-ecdb66b1bc4b",
+          "text": "Personal-Content OS training",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8693jpvhv",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "6b065d74-4663-4766-84dd-bb2407dcd532",
+          "text": "Personal- LinkedIn Os training",
+          "source": "clickup",
+          "clickup_status": "to do",
+          "clickup_task_id": "8693jpvht",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "2aad17cc-71e8-45c1-bd43-31deb39ca3cc",
+          "text": "How many hats -looking stupid - video",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "8692zhq2m",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "5f387120-38b2-4cfd-bbee-7e788b6a1a10",
+          "text": "Apollo.io",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "862jynw1v",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "74f868b5-edfd-4831-8a35-d3ede9638b1c",
+          "text": "CF Testimonials - Get them approved and loaded in.",
+          "source": "clickup",
+          "clickup_status": "claire meddings",
+          "clickup_task_id": "862jurrtj",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "33f8b89f-1cbb-4de9-8fd0-3463d5ce6168",
+          "text": "Think about SEO",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "862jurr9f",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "d6548eec-2e4c-4b11-ab33-e1bf8a697ff6",
+          "text": "Email marketing templates",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "862je94fw",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "69b2b294-9678-418f-a715-4f4e5406df37",
+          "text": "Email marketing strategy",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "862je94ec",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "fa92a366-7feb-42b2-8fda-4b37500559a2",
+          "text": "Contents Insurance when Office Sorted",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "346uqf7",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "4d7d2065-477e-4e09-8681-3fed2016e23c",
+          "text": "https://www.focusedenergy.work/operations-services/fractional-coo/",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "2xk2wdd",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "fe341254-767e-464a-bb06-bcf02f1549f3",
+          "text": "Dream 100",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "2aev4q1",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "8fb9cc93-3c79-43c6-b412-8991c226fa24",
+          "text": "Most Coaching does not work",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "2aev1nk",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "7330a6aa-4198-4644-8bc7-7c8d063c9cd0",
+          "text": "Why do people resist coaches",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "296nn05",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "94fa24fd-de66-4eba-a218-fe9699b1c4f1",
+          "text": "In not on",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "28nffwy",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "53f6a5b6-812e-42ef-9ce4-7d9acaec8414",
+          "text": "Grow Method",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "28fynjd",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "f5bc4e0e-a816-4b69-a2f6-a990e20a6f8a",
+          "text": "10 Reasons to have a coach",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "28fybkc",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "fb5e704e-fe05-434f-b2d8-b358ba0796b2",
+          "text": "Look at life insurance through the business",
+          "source": "clickup",
+          "clickup_status": "on hold",
+          "clickup_task_id": "28fukvx",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "179290bf-d4c7-4187-adc3-7a1bc52cc554",
+          "text": "Smooth Business",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "28fujdx",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "40334be7-40e3-4727-a10c-c629d232a3fb",
+          "text": "Systems",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "26pqbdv",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "0739f2f0-a8d8-4457-bb61-e36725f97242",
+          "text": "Systems Vs Software",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "258vnea",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        },
+        {
+          "id": "049a711d-e354-4ce6-9308-518f65d6eb6f",
+          "text": "Rollercoaster",
+          "source": "clickup",
+          "clickup_status": "ideas for future",
+          "clickup_task_id": "1wvuj4j",
+          "clickup_priority": null,
+          "clickup_time_block": null
+        }
+      ],
+      "clarity_notes": null,
+      "list_notes": null,
+      "estimate_notes": null,
+      "allocate_notes": null,
+      "roadmap_notes": null,
+      "private_notes": "`test note",
+      "post_session_email_sent_at": "2026-04-19T17:15:04.796+00:00",
+      "checkin_email_scheduled_at": "2026-04-22T17:15:04.91731+00:00",
+      "checkin_email_sent_at": null,
+      "completed_at": "2026-04-19T17:15:04.91731+00:00",
+      "created_by": null,
+      "created_at": "2026-04-16T09:38:00.311953+00:00",
+      "updated_at": "2026-04-19T17:15:04.91731+00:00",
+      "zoom_occurrence_id": null,
+      "session_type": "regular"
+    },
+    {
+      "id": "e8447e60-936b-4cd1-b8e0-191bdb6f3b9b",
+      "engagement_id": "c142ee1e-31d1-4226-829e-af04b3f640a5",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "scheduled_at": "2026-05-05T09:00:00+00:00",
+      "duration_mins": 40,
+      "status": "scheduled",
+      "zoom_link": null,
+      "action_items": [],
+      "clarity_notes": null,
+      "list_notes": null,
+      "estimate_notes": null,
+      "allocate_notes": null,
+      "roadmap_notes": null,
+      "private_notes": null,
+      "post_session_email_sent_at": null,
+      "checkin_email_scheduled_at": null,
+      "checkin_email_sent_at": null,
+      "completed_at": null,
+      "created_by": null,
+      "created_at": "2026-04-16T09:38:00.311953+00:00",
+      "updated_at": "2026-04-16T11:01:52.428585+00:00",
+      "zoom_occurrence_id": null,
+      "session_type": "regular"
+    },
+    {
+      "id": "0dc8f93f-7614-481a-88b1-d51e033f0d7b",
+      "engagement_id": "c142ee1e-31d1-4226-829e-af04b3f640a5",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "scheduled_at": "2026-05-12T09:00:00+00:00",
+      "duration_mins": 40,
+      "status": "scheduled",
+      "zoom_link": null,
+      "action_items": [],
+      "clarity_notes": null,
+      "list_notes": null,
+      "estimate_notes": null,
+      "allocate_notes": null,
+      "roadmap_notes": null,
+      "private_notes": null,
+      "post_session_email_sent_at": null,
+      "checkin_email_scheduled_at": null,
+      "checkin_email_sent_at": null,
+      "completed_at": null,
+      "created_by": null,
+      "created_at": "2026-04-16T09:38:00.311953+00:00",
+      "updated_at": "2026-04-16T11:01:52.428585+00:00",
+      "zoom_occurrence_id": null,
+      "session_type": "regular"
+    },
+    {
+      "id": "aeed4297-6014-4ca6-b7a9-665ce02a30e9",
+      "engagement_id": "c142ee1e-31d1-4226-829e-af04b3f640a5",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "scheduled_at": "2026-05-19T09:00:00+00:00",
+      "duration_mins": 40,
+      "status": "scheduled",
+      "zoom_link": null,
+      "action_items": [],
+      "clarity_notes": null,
+      "list_notes": null,
+      "estimate_notes": null,
+      "allocate_notes": null,
+      "roadmap_notes": null,
+      "private_notes": null,
+      "post_session_email_sent_at": null,
+      "checkin_email_scheduled_at": null,
+      "checkin_email_sent_at": null,
+      "completed_at": null,
+      "created_by": null,
+      "created_at": "2026-04-16T09:38:00.311953+00:00",
+      "updated_at": "2026-04-16T11:01:52.428585+00:00",
+      "zoom_occurrence_id": null,
+      "session_type": "regular"
+    }
+  ],
+  "coaches": [
+    {
+      "id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "name": "Dave Alderton",
+      "email": "dave@clearaccountability.co.uk",
+      "role": "Founder, CLEAR Accountability",
+      "bio_html": "I've spent years working with service business owners who are brilliant at what they do but struggle with the day-to-day chaos of running a business. I built the CLEAR framework because I needed it myself — a structured, repeatable process that turns overwhelm into clarity and action.\n\nEvery client I work with gets my full attention, a proven process, and complete confidentiality. I don't do group sessions. I don't do generic advice. Just one business owner, one accountability partner, and a weekly plan that actually gets done.",
+      "calendly_url": "https://calendly.com/silverforest/clear",
+      "clickup_folder_id": "901210564975",
+      "is_admin": true,
+      "created_at": "2026-04-18T18:59:08.234699+00:00",
+      "updated_at": "2026-04-20T21:26:28.899+00:00",
+      "slug": "dave-alderton",
+      "short_bio": "Founder of CLEAR Accountability with over 25 years experience in Corporate  Operations.",
+      "video_url": null,
+      "photo_url": "https://udwekiojckudkfuhjzet.supabase.co/storage/v1/object/public/coach-photos/bde12767-4e94-4c38-a736-98cb46234003/1776720299778.png",
+      "show_on_selection_page": false,
+      "commission_pct": 0,
+      "email_signature_html": null
+    }
+  ],
+  "proposals": [
+    {
+      "id": "0d3594c2-08ee-4983-b8a8-79ce6a20b010",
+      "token": "2d1c29938c8e4ff1b542a350c577519d",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "deal_id": null,
+      "programme_id": "d11ce8ac-5ab8-48cb-a470-7502a183b2bf",
+      "status": "withdrawn",
+      "intro_message": "Hi Bob Test prooosal",
+      "investment": 347,
+      "cadence": "weekly",
+      "accepted_at": "2026-04-17T07:36:55.168+00:00",
+      "accepted_name": "Dave Alderton",
+      "accepted_ip": null,
+      "sent_at": "2026-04-17T07:35:31.774+00:00",
+      "expires_at": "2026-05-17T07:35:23.916+00:00",
+      "viewed_at": "2026-04-17T07:36:22.944+00:00",
+      "view_count": 1,
+      "created_by": "bde12767-4e94-4c38-a736-98cb46234003",
+      "created_at": "2026-04-17T07:35:24.135913+00:00",
+      "updated_at": "2026-04-17T08:29:44.4+00:00",
+      "billing_period_weeks": null
+    },
+    {
+      "id": "3e7fc8d4-37d4-4f7a-8b0b-6822522d7717",
+      "token": "6b15d8295e27455cafafd8dfcb2d0a62",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "deal_id": null,
+      "programme_id": "d11ce8ac-5ab8-48cb-a470-7502a183b2bf",
+      "status": "draft",
+      "intro_message": "Hi [Name],\n\nProcess from here:\n1) Sign this proposal\n2) Set Up the GoCardless link - https://pay.gocardless.com/BRT0002KKK53MDY\n3) Agree a time slot- [Booking Link]\n4) You will be sent a link to register for access to the software\n5) You will be sent a Zoom link for the recurring 40 minute meetings\n6) We crack on!\n\nReally looking forward to working with you\n\nThanks\nDave",
+      "investment": 347,
+      "cadence": "weekly",
+      "accepted_at": null,
+      "accepted_name": null,
+      "accepted_ip": null,
+      "sent_at": null,
+      "expires_at": "2026-05-17T11:55:21.383+00:00",
+      "viewed_at": "2026-04-17T11:55:24.786+00:00",
+      "view_count": 6,
+      "created_by": "bde12767-4e94-4c38-a736-98cb46234003",
+      "created_at": "2026-04-17T11:55:21.462997+00:00",
+      "updated_at": "2026-04-17T11:55:21.462997+00:00",
+      "billing_period_weeks": 4
+    }
+  ],
+  "emails": [],
+  "email_templates": [
+    {
+      "id": "0044b4dc-d87f-4cbf-95db-65ccf481746b",
+      "slug": "post_session",
+      "subject": "Your CLEAR Action Plan — {{session_date}}",
+      "body_html": "<p>Hi {{first_name}},</p>\n\n<p>Great session today! Here's your action plan:</p>\n\n<ul>\n{{action_items}}\n</ul>\n\n<p>Your next session is <strong>{{next_session_date}}</strong> at <strong>{{next_session_time}}</strong>.<br>\nJoin here: <a href=\"{{zoom_link}}\">{{zoom_link}}</a></p>\n\n<p>Speak soon,<br>Dave</p>",
+      "body_text": "Hi {{first_name}},\n\nGreat session today! Here's your action plan:\n\n{{action_items_plain}}\n\nYour next session is {{next_session_date}} at {{next_session_time}}.\nJoin here: {{zoom_link}}\n\nSpeak soon,\nDave",
+      "variables": [
+        "first_name",
+        "session_date",
+        "action_items",
+        "action_items_plain",
+        "next_session_date",
+        "next_session_time",
+        "zoom_link"
+      ],
+      "updated_at": "2026-04-15T18:47:24.700959+00:00",
+      "name": null,
+      "description": null
+    },
+    {
+      "id": "5285e53c-8cf3-4d16-8d12-cf1f183adf8c",
+      "slug": "checkin",
+      "subject": "How are you getting on?",
+      "body_html": "<p>Hi {{first_name}},</p>\n\n<p>Just a quick check-in — how are you getting on this week?</p>\n\n<p>Here's what's still showing as urgent:</p>\n\n<ul>\n{{urgent_tasks}}\n</ul>\n\n<p>See you {{next_session_date}}.</p>\n\n<p>Dave</p>",
+      "body_text": "Hi {{first_name}},\n\nJust a quick check-in — how are you getting on this week?\n\nHere's what's still showing as urgent:\n\n{{urgent_tasks_plain}}\n\nSee you {{next_session_date}}.\n\nDave",
+      "variables": [
+        "first_name",
+        "urgent_tasks",
+        "urgent_tasks_plain",
+        "next_session_date"
+      ],
+      "updated_at": "2026-04-15T18:47:24.700959+00:00",
+      "name": null,
+      "description": null
+    },
+    {
+      "id": "bffe4b41-3b59-4314-936c-013780c3a214",
+      "slug": "time_block_reminder",
+      "subject": "Your focus for {{today_day}} — let's make it count",
+      "body_html": "<!-- generated by cron -->",
+      "body_text": "Hi {{first_name}},\n\nHere's what's on your plate for {{today_date}}.\n\n{{today_tasks}}\n\n{{backlog}}\n\n{{upcoming}}\n\nHave a great day!\n\nDave",
+      "variables": [],
+      "updated_at": "2026-04-16T11:32:17.611621+00:00",
+      "name": "Time Block Daily Reminder",
+      "description": "Sent on the days you select per engagement — shows today's tasks, backlog, and upcoming."
+    }
+  ],
+  "integration_tokens": [
+    {
+      "id": "c74c5398-2f75-40d6-9d63-cabfe04ae89d",
+      "profile_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "provider": "clickup",
+      "access_token": "32582456_d45d33ab06c24d98983599f1767e92ad9a11222e99f008ed9669591ca556ebdf",
+      "refresh_token": null,
+      "token_expiry": null,
+      "tenant_id": null,
+      "scope": null,
+      "created_at": "2026-04-15T23:28:55.280201+00:00",
+      "updated_at": "2026-04-15T23:28:55.280201+00:00"
+    },
+    {
+      "id": "0744b116-cd10-4cd1-a036-7fcabf69cc7c",
+      "profile_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "provider": "zoom",
+      "access_token": "eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6ImIzM2VkNjU1LTA5YmYtNDhkMS05YWFmLWFkNTAzNmU4YTRlMiJ9.eyJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJZbGFQRW5Sb1JkR25WZjBXUEdHYml3IiwidmVyIjoxMCwiYXVpZCI6IjY4NzhmNTc4ZTYxMWRhMmNhM2RjY2QzZDhhZWE2NjY0ZGM4NzhlYzk0Y2ZiNjlkMDcyNzVjZWQyYjliZjRjMWMiLCJuYmYiOjE3NzY2MTcwOTQsImNvZGUiOiJhQkhqdUM2WGpLNTd1NWR1eTJuUUxTaGhDRUlQWm1JTGciLCJpc3MiOiJ6bTpjaWQ6b1BtcHlDMGxRZW1Zem5NSXE4TkV0dyIsImdubyI6MCwiZXhwIjoxNzc2NjIwNjk0LCJ0eXBlIjowLCJpYXQiOjE3NzY2MTcwOTQsImFpZCI6IkpmWkZVZDdGU3g2NWtXZVJWVF9fYUEifQ.IYCzjwMSoVkqDfrLzCwWrwuoGG27GLDcZ1_eZcq73_a6XUkNABpdSOabnG62mxMNHeh-RNYG4JR8r5hDyPk6Pg",
+      "refresh_token": "eyJzdiI6IjAwMDAwMiIsImFsZyI6IkhTNTEyIiwidiI6IjIuMCIsImtpZCI6IjYyYmVjNGQ1LWQzZTgtNDEzMi04M2FhLWUzMmIxZTEyMDc2MiJ9.eyJhdWQiOiJodHRwczovL29hdXRoLnpvb20udXMiLCJ1aWQiOiJZbGFQRW5Sb1JkR25WZjBXUEdHYml3IiwidmVyIjoxMCwiYXVpZCI6IjY4NzhmNTc4ZTYxMWRhMmNhM2RjY2QzZDhhZWE2NjY0ZGM4NzhlYzk0Y2ZiNjlkMDcyNzVjZWQyYjliZjRjMWMiLCJuYmYiOjE3NzY2MTcwOTQsImNvZGUiOiJhQkhqdUM2WGpLNTd1NWR1eTJuUUxTaGhDRUlQWm1JTGciLCJpc3MiOiJ6bTpjaWQ6b1BtcHlDMGxRZW1Zem5NSXE4TkV0dyIsImdubyI6MCwiZXhwIjoxNzg0MzkzMDk0LCJ0eXBlIjoxLCJpYXQiOjE3NzY2MTcwOTQsImFpZCI6IkpmWkZVZDdGU3g2NWtXZVJWVF9fYUEifQ.AJEPtgaQSECiypBSj5UTU4jfXNt-97ExprK1s2R5-1qK7GLgC8naY0sQDfKThLgP0M68FDs32KRLVhHLi_-aNg",
+      "token_expiry": "2026-04-19T17:44:53.836+00:00",
+      "tenant_id": null,
+      "scope": null,
+      "created_at": "2026-04-19T13:28:33.578047+00:00",
+      "updated_at": "2026-04-19T13:28:33.578047+00:00"
+    },
+    {
+      "id": "6ac3ee73-5f65-42da-bda5-a323afe1b393",
+      "profile_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "provider": "xero",
+      "access_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjFDQUY4RTY2NzcyRDZEQzAyOEQ2NzI2RkQwMjYxNTgxNTcwRUZDMTkiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJISy1PWm5jdGJjQW8xbkp2MENZVmdWY09fQmsifQ.eyJuYmYiOjE3NzYzMzI0NDgsImV4cCI6MTc3NjMzNDI0OCwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS54ZXJvLmNvbSIsImF1ZCI6Imh0dHBzOi8vaWRlbnRpdHkueGVyby5jb20vcmVzb3VyY2VzIiwiY2xpZW50X2lkIjoiRTRGRkEwQTFBQTgxNDA4MkFGQTFGMjRDMkVFQ0ExRjUiLCJzdWIiOiJhNTA4NWIwOTJhMDk1OTdhOTU5NTM4NGU1MDFiZjEyYSIsImF1dGhfdGltZSI6MTc3NjMzMTI5MywieGVyb191c2VyaWQiOiI2M2QxMmRjZi1mODliLTQ4NDYtYjEzNi1kMzE1ZDJkOGFmZWYiLCJnbG9iYWxfc2Vzc2lvbl9pZCI6ImI0YTk0ZTViNTg0ZDQ1YjFhOTc5NzA5ZDM4OWMyMTRlIiwic2lkIjoiYjRhOTRlNWI1ODRkNDViMWE5Nzk3MDlkMzg5YzIxNGUiLCJhdXRoZW50aWNhdGlvbl9ldmVudF9pZCI6Ijc3YmFiNDc0LWQ1ZDUtNDUxMC05OWJiLWJhZWZjODY0YTA1MCIsImp0aSI6IjE3RjJDNDU1N0MyNjE3NTBFNzAxNUI0QkM3ODk4OTBGIiwic2NvcGUiOlsiYWNjb3VudGluZy5jb250YWN0cyIsImFjY291bnRpbmcuc2V0dGluZ3MucmVhZCIsImFjY291bnRpbmcuaW52b2ljZXMiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsibGVnYWN5Il19.RFXgoXI8glOWnBhZPjW77RGANoWev84tnDFZT5rxl5-mKlEW-_gBAfnGV711Buvf6Blo1Um81Y4rMDz754xWzwnMysetUu0wblCaoAoXRmmTRAS6pIpin9ZNi8-YrzUI5GfjV_3yTLSXUIqF2BRY1Fek01FaUITQUR97N1NvIp7FektlUB9qOQV2GhYq-aZz76ieOdt7kIev8E-2rAkp_pBx-tCLVnivKkEFc9OWZPjeGKDWja4BHE1jA94K1Cvwecohy_MF8eTGqpcBLAIIdENa7U5X3CwzDCZ7SchgAVlKVlRNu1RyxW28geFjOWU-r6fALYLk5bGi5upAzxu7_Q",
+      "refresh_token": "xzb0GVcDwW5xjTqyAbI1SaLIe0GPy5Axnw3cWTQgHK0",
+      "token_expiry": "2026-04-16T10:10:48.437+00:00",
+      "tenant_id": "b050b25d-4d5f-4d64-b895-1adf145afdc2",
+      "scope": null,
+      "created_at": "2026-04-15T23:28:26.145282+00:00",
+      "updated_at": "2026-04-15T23:28:26.145282+00:00"
+    },
+    {
+      "id": "63be435a-a6f0-492e-84e4-1281b6b2b092",
+      "profile_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "provider": "breakcold",
+      "access_token": "breakcold-usr-e800e6c247a94bcb8cdbb10b1aa777aa",
+      "refresh_token": null,
+      "token_expiry": null,
+      "tenant_id": null,
+      "scope": null,
+      "created_at": "2026-04-16T18:43:01.558147+00:00",
+      "updated_at": "2026-04-16T18:43:01.558147+00:00"
+    },
+    {
+      "id": "c17ce8f4-21c1-4866-87c9-3134df936697",
+      "profile_id": "bde12767-4e94-4c38-a736-98cb46234003",
+      "provider": "calendly",
+      "access_token": "eyJraWQiOiIxY2UxZTEzNjE3ZGNmNzY2YjNjZWJjY2Y4ZGM1YmFmYThhNjVlNjg0MDIzZjdjMzJiZTgzNDliMjM4MDEzNWI0IiwidHlwIjoiUEFUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiJodHRwczovL2F1dGguY2FsZW5kbHkuY29tIiwiaWF0IjoxNzc2NjMwMDgyLCJqdGkiOiIxNmZhYzI3Yy03YTU0LTRiODQtOTBjYi05YjViMDZlMDUxOWEiLCJ1c2VyX3V1aWQiOiI3MjU5Njk0ZC1hNmEwLTQyOGYtYTM3OS1mYzgwNWQxMjYxNzciLCJzY29wZSI6ImF2YWlsYWJpbGl0eTpyZWFkIGF2YWlsYWJpbGl0eTp3cml0ZSBldmVudF90eXBlczpyZWFkIGV2ZW50X3R5cGVzOndyaXRlIGxvY2F0aW9uczpyZWFkIHJvdXRpbmdfZm9ybXM6cmVhZCBzaGFyZXM6d3JpdGUgc2NoZWR1bGVkX2V2ZW50czpyZWFkIHNjaGVkdWxlZF9ldmVudHM6d3JpdGUgc2NoZWR1bGluZ19saW5rczp3cml0ZSBncm91cHM6cmVhZCBvcmdhbml6YXRpb25zOnJlYWQgb3JnYW5pemF0aW9uczp3cml0ZSB1c2VyczpyZWFkIGFjdGl2aXR5X2xvZzpyZWFkIGRhdGFfY29tcGxpYW5jZTp3cml0ZSBvdXRnb2luZ19jb21tdW5pY2F0aW9uczpyZWFkIHdlYmhvb2tzOnJlYWQgd2ViaG9va3M6d3JpdGUifQ.nKDhPHCM5AfSsvawKjmCguQhZ-FpigBFQrCDLOaxVQBSGtQFuXlrdADGU-4yLWQhyBeLhpFSJ5w-drnCnRQMIA",
+      "refresh_token": "",
+      "token_expiry": null,
+      "tenant_id": "https://api.calendly.com/organizations/9491577f-eed2-4837-900a-3296c3df6c63",
+      "scope": null,
+      "created_at": "2026-04-19T20:21:43.201131+00:00",
+      "updated_at": "2026-04-19T20:21:43.201131+00:00"
+    }
+  ],
+  "booking_slots": [
+    {
+      "id": "885cfc52-98cf-4b78-93c8-729dfab1ac04",
+      "day_of_week": 1,
+      "slot_time": "14:00:00",
+      "duration_mins": 40,
+      "status": "available",
+      "held_by_engagement_id": null,
+      "held_at": null,
+      "created_at": "2026-04-17T11:38:16.022772+00:00",
+      "held_by_engagement_id_2": null,
+      "committed_cadence": null,
+      "release_after": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    },
+    {
+      "id": "858a1277-8f23-4234-9b97-f76b464b40b7",
+      "day_of_week": 1,
+      "slot_time": "15:00:00",
+      "duration_mins": 40,
+      "status": "available",
+      "held_by_engagement_id": null,
+      "held_at": null,
+      "created_at": "2026-04-17T11:38:44.319767+00:00",
+      "held_by_engagement_id_2": null,
+      "committed_cadence": null,
+      "release_after": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    },
+    {
+      "id": "66e90502-e5fe-4ace-962e-ecd4ad11e4cd",
+      "day_of_week": 1,
+      "slot_time": "16:00:00",
+      "duration_mins": 40,
+      "status": "available",
+      "held_by_engagement_id": null,
+      "held_at": null,
+      "created_at": "2026-04-17T11:38:54.135817+00:00",
+      "held_by_engagement_id_2": null,
+      "committed_cadence": null,
+      "release_after": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    },
+    {
+      "id": "82148cea-9a78-466e-bd40-114d8c89e99e",
+      "day_of_week": 1,
+      "slot_time": "17:00:00",
+      "duration_mins": 40,
+      "status": "available",
+      "held_by_engagement_id": null,
+      "held_at": null,
+      "created_at": "2026-04-17T11:39:13.018222+00:00",
+      "held_by_engagement_id_2": null,
+      "committed_cadence": null,
+      "release_after": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    },
+    {
+      "id": "8fcb21f9-e886-46c6-85cc-8127e8c0bc36",
+      "day_of_week": 2,
+      "slot_time": "15:00:00",
+      "duration_mins": 40,
+      "status": "available",
+      "held_by_engagement_id": null,
+      "held_at": null,
+      "created_at": "2026-04-17T11:39:25.598269+00:00",
+      "held_by_engagement_id_2": null,
+      "committed_cadence": null,
+      "release_after": null,
+      "coach_id": "bde12767-4e94-4c38-a736-98cb46234003"
+    }
+  ],
+  "grip_goals": [
+    {
+      "id": "25b9a1f3-f1b6-46af-9737-5ac2ce949a66",
+      "engagement_id": "c142ee1e-31d1-4226-829e-af04b3f640a5",
+      "contact_id": "0ec59050-0c7d-4ed2-9d54-52c81acbaddd",
+      "sort_order": 1,
+      "goal": "Test1",
+      "reason": "Test2",
+      "interval": "Test3",
+      "person": "Test4",
+      "status": "active",
+      "achieved_at": null,
+      "achieved_session_id": null,
+      "created_at": "2026-04-19T15:28:46.613373+00:00",
+      "updated_at": "2026-04-19T15:28:46.613373+00:00"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "7af5d1f5-6818-463f-a1d3-71c519534791",
+      "name": "Move the Needle Lite",
+      "cadence": "fortnightly",
+      "session_duration_mins": 40,
+      "default_price_per_4_weeks": 199,
+      "vat_rate": 0.2,
+      "description": "Fortnightly 40-minute accountability sessions using the CLEAR framework. Perfect for business owners who want regular check-ins without weekly commitment.",
+      "active": true,
+      "created_at": "2026-04-15T18:47:24.700959+00:00"
+    },
+    {
+      "id": "d11ce8ac-5ab8-48cb-a470-7502a183b2bf",
+      "name": "Move the Needle",
+      "cadence": "weekly",
+      "session_duration_mins": 40,
+      "default_price_per_4_weeks": 347,
+      "vat_rate": 0.2,
+      "description": "Weekly 40-minute accountability sessions using the CLEAR framework. Our most popular programme for serious business owners ready to accelerate their progress.",
+      "active": true,
+      "created_at": "2026-04-15T18:47:24.700959+00:00"
+    }
+  ],
+  "terms_and_conditions": [
+    {
+      "id": "706155e1-ec61-4e15-abac-ac395fb9beff",
+      "content_html": "<p><strong>TERMS AND CONDITIONS&nbsp;</strong></p><p></p><p><strong>1. Summary of key terms&nbsp;</strong></p><p></p><p><strong>Programme - &nbsp;</strong>Move the Needle, Move the Needle (Team) and Productivity Pod Programmes collectively, (the Programme).&nbsp;</p><p><strong>Price and Payment</strong>&nbsp;- The Price for the Programme as agreed by you. Payment to be made every fourth session by way of GoCardless unless otherwise agreed in writing between the parties.&nbsp;</p><p><strong>Term and Termination&nbsp;- </strong>This agreement is for a period of four sessions and continuing thereafter in blocks of four sessions. You may terminate this agreement in accordance with clause 7.&nbsp;</p><p><strong>2. Application of terms and conditions&nbsp;</strong></p><p><strong>2.1.</strong> These terms and conditions (“Terms”) apply to the Programme operated by Silver Forest Limited/ TA The Accountability Partners (“we” or “us”). By registering to be a participant in our Programme, you agree to the following Terms and that these prevail over any terms referred to, elsewhere or as implied by law, trade custom, practice or course of dealing.&nbsp;</p><p><strong>2.2.</strong> The agreement is between us and you, the person or entity registering to be a participant in the Programme (“you”) and which is subject to the Terms in this Agreement, referred to as the (“Contract”), shall come into effect upon us emailing you to confirm our acceptance of your registration form for the Programme and shall continue until terminated in accordance with these Terms.&nbsp;</p><p><strong>2.3.</strong> These Terms should be read in conjunction with our Terms and Conditions and Privacy Policy (all of which can be found on our website <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://theaccountabilitypartners.co.uk/\">https://theaccountabilitypartners.co.uk/</a> (“Site”)).&nbsp;</p><p><strong>2.4.</strong> Where you are a corporate entity, “you” as used in these Terms shall be deemed to include your officers and employees and you shall procure that such officers and employees fully comply with these Terms.&nbsp;</p><p><strong>3. Programme</strong>&nbsp;</p><p><strong>3.1. </strong>The Programme shall be provided over the course of a rolling 4 sessions and shall be delivered by online sessions (“One to One Session”) as detailed on the site.&nbsp;</p><p><strong>3.2.</strong> The date and time of all sessions are as set out on the site or as otherwise communicated to you, but are subject to change. We will provide you with as much notice of any change as is possible but we shall not be liable to you in any way for any change to such dates or times.&nbsp;</p><p><strong>3.3. </strong>Any materials we may provide as part of the Programme do not in any way constitute advice or recommendations. We are providing training and guidance only. We are not able to advise you on your individual circumstances&nbsp;</p><p><strong>One to One Session&nbsp;</strong></p><p><strong>3.4.</strong> If you can’t attend a scheduled One to One Session, we shall endeavour to try to reschedule such session but if we are not able to do so, we shall not be obliged to refund you any amounts paid in relation to such sessions that you have not attended.&nbsp;</p><p><strong>3.5.</strong> If you arrive late for a One to One Session, we will try to extend the end time but if this is not possible, the session will end at the scheduled time, and we will not be obliged to refund you any amounts paid in relation to such session.&nbsp;</p><p><strong>3.6. </strong>The One to One Sessions (or any other in person session as part of the Programme) (“In Person Session”) may be held in third party venues and you agree to comply at all times with such venue’s policies and rules (particularly fire safety and health and safety rules). We will require you to leave if you do not comply with such policies and rules (and shall not be obliged to refund you any amounts paid in relation to such session).&nbsp;</p><p><strong>3.7. </strong>You are responsible for your own belongings that you take to an In Person Session and neither we nor the venue will be liable for any loss, damage, theft or destruction of any of your belongings.&nbsp;</p><p><strong>3.8. </strong>You agree to indemnify us against any claim from any third party (and associated costs and expenses including professional fees arising out of your actions or inactions while at a venue as part of the Programme.&nbsp;</p><p>Group Sessions&nbsp;</p><p><strong>3.9.</strong> Group sessions shall start and end at the scheduled times regardless of the time that you join the session. If you are late for a group session, the session will not be extended, and we shall not be obliged to refund you any amounts in relation to such session.&nbsp;</p><p><strong>Online Sessions</strong>&nbsp;</p><p><strong>3.10.</strong> The online sessions of the Programme are held on third party secure servers and we have taken all reasonable steps to ensure that the online content will be available at all times during the course of the Programme but in the event that such content (or any content added by you or other participants in the Programme) is not available in whole or in part at any time, or becomes corrupted, is deleted or is failed to be stored, we shall have no liability in any circumstances.&nbsp;</p><p><strong>3.11.</strong> You agree to keep user details and your password for the site confidential at all times and to not disclose them to any third party. You must notify us immediately if you become aware of any unauthorized use of your account and you shall&nbsp;indemnify us against all claims, damages, losses, costs or expenses (including professional fees) and any other liability which arises from any unauthorized use of your account.&nbsp;</p><p><strong>3.12.</strong> The Programme requires the following hardware and software and other functional requirements in order to be fully used:&nbsp;</p><p><strong>3.12.1</strong>. A computer, laptop or device which can access the internet and is powerful enough to run productivity software and online video calls.&nbsp;</p><p><strong>3.12.2</strong>. A good broadband or network signal to cope with video Calls and web based software.&nbsp;</p><p><strong>4. Payment&nbsp;</strong></p><p><strong>4.1</strong>. The total price payable for the Programme is as agreed by the Parties prior to this Contract.&nbsp;</p><p><strong>4.2.</strong> If you are paying instalments online through Stripe, Paypal or a similar online payment method, you agree that we can take such further instalments automatically when due and without any further consent from you.&nbsp;</p><p><strong>4.3</strong>. Payment is to be made by any method that is detailed on our site from time to time.&nbsp;</p><p><strong>4.4.</strong> Payment shall be made in full without any set off, counterclaim, deduction or withholding.&nbsp;</p><p><strong>4.5.</strong> Without prejudice to any other right or remedy that we may have, if any sum payable under these terms is not paid within 7 days of the date due we reserve the right to (i) charge interest from the date due for payment to the actual date of payment at the rate of 4% above the base rate of the Bank of England from time to time in force and/or (ii) suspend the availability of the Programme until such time as payment is made or the Contract is terminated.&nbsp;</p><p><strong>4.6.</strong> The total price payable as set out in the summary of key terms is exclusive of Value Added Tax (and any other applicable taxes or duties) which shall be added at the applicable rate where necessary.&nbsp;</p><p><strong>4.7. </strong>You shall be responsible for all travel, accommodation and other subsistence costs and all other expenses incurred by you in connection with your participation in the Programme.&nbsp;</p><p><strong>4.8.</strong> All payments are non-refundable other than as set out below.&nbsp;</p><p><strong>5. Our obligations</strong>&nbsp;</p><p><strong>5.1.</strong> We warrant to you that the Programme and Programme materials purchased from us is of satisfactory quality and reasonably fit for the purpose for which the Programme is supplied.&nbsp;</p><p><strong>5.2.</strong> Other than as set out in paragraph 5.1 above, all warranties and representations are excluded to the fullest extent permitted by law.&nbsp;</p><p><strong>5.3. </strong>We will endeavour to ensure that all information that we provide is accurate and up-to-date but we shall not be liable for any claims arising from such information being inaccurate or not up-to-date or otherwise.&nbsp;</p><p><strong>5.4</strong>. Each party undertakes that it shall not at any time disclose to any person any confidential information concerning the business, affairs, customers, clients or suppliers of the other party or of any member of the group of companies to which the other party belongs.&nbsp;</p><p><strong>5.5</strong>. You acknowledge that in the course of the Programme you may have access to other Programme participants confidential information and you agree not to use or disclose to any third party such confidential information. This restriction does not apply to:&nbsp;</p><p>(a) any use or disclosure authorised by you or required by law;&nbsp;</p><p>(b) any use or disclosure which you consider necessary or advisable in order to prevent illegal acts or harm to others; or&nbsp;</p><p>(c) any information which is already in, or comes into, the public domain otherwise than through your unauthorised disclosure.&nbsp;</p><p><strong>5.6.</strong> You acknowledge that your personal data will be processed by and on behalf of us as part of us providing the Programme to you in accordance with our Privacy Notice.&nbsp;</p><p><strong>6. Intellectual Property</strong>&nbsp;</p><p><strong>6.1.</strong> We are the owner or the licensee of all Intellectual Property Rights and all other rights in the Programme and all content within the Programme and nothing in these Terms or otherwise shall operate to transfer the ownership of the Intellectual Property Rights in the Programme or the content of the Programme to you or to any other person.&nbsp;</p><p><strong>6.2</strong>. You may not at any time copy, reproduce, publish in any form, share, sell, dispose of or otherwise make available to a third party in any way any of the content or materials (or any of the ideas and concepts created by us and contained in the content or materials) contained in the Programme.&nbsp;</p><p><strong>6.3.</strong> We grant to you a limited, non-exclusive, non-transferable, non-sub licensable revocable licence to use all or any of the content of the Programme for the purposes for which the Programme was provided only.&nbsp;</p><p><strong>6.4.</strong> Except as set out in paragraph 6.3, you may not use any of our intellectual property rights at any time except where duly licensed. Use of our logo is strictly prohibited without our prior written consent.&nbsp;</p><p><strong>6.5</strong>. You may not without our prior written consent make any audio or visual recordings of any part of our Programme.&nbsp;</p><p><strong>6.6.</strong> We may from time to time record the Programme being delivered during your attendance. You authorise us to use your image and voice in any such recordings without payment, other condition or need for further consent.&nbsp;</p><p><strong>6.7</strong>. You are not permitted to sell or promote products or services to other participants in the Programme at or during any part of our Programme without our prior written permission. You shall not contact any participants of the Programme other than in relation to progressing within the Programme.&nbsp;<br><strong>6.8</strong>. The provisions of this paragraph 6 shall survive termination of the Contract.&nbsp;</p><p><strong>7. Term and termination&nbsp;</strong></p><p><strong>7.1</strong>. The Contract shall renew every 4 sessions and continue until such time as you provide 7 days written notice to terminate at the next renewal cycle. The Contract shall expire at that time other than for the Terms that are specifically stated to remain in force. For the avoidance of doubt, the license granted in paragraph 6.3 shall terminate automatically on termination or expiry of the Contract.&nbsp;</p><p><strong>7.2.</strong> Within the first 14 days of your date of registration of the initial Programme, You may terminate the Contract by providing written notice of such. If we agree (acting reasonably) that the Programme has not enabled, you to meet its stated objectives as a result of the Programme (rather than as a result of your action or inaction or your personal attributes) we may provide you with a full refund of the amount paid by you up to that date for the Programme.&nbsp;</p><p><strong>7.3.</strong> Notwithstanding the provisions of paragraph 7.1 or 7.2, either of us may terminate the Contract on written notice to the other with immediate effect if at any time:&nbsp;</p><p><strong>7.3.1</strong>. The other commits any serious or repeated breach or non-observance of any of the provisions of these Terms; or&nbsp;</p><p><strong>7.3.2.</strong> The other (i) makes a resolution for its winding up, (ii) makes an arrangement or composition with its creditors, (iii) makes an application to a court of competent jurisdiction for protection from its creditors, (iv) is unable to pay its debts, (v) ceases trading or an administration or winding-up order is made or an administrator or receiver is appointed in relation to such party, (vi) is declared bankrupt or (vii) is convicted of a custodial offence (other than a road traffic offence); or&nbsp;</p><p><strong>7.3.3.</strong> The other party commits any fraud or dishonesty or acts in any manner which in the opinion of the terminating party brings or is likely to bring the terminating party into disrepute or is materially adverse to the interests of the terminating party.&nbsp;</p><p><strong>7.4.</strong> We may terminate the Contract without any liability to make any refund to you if your continued participation in the Programme is in our opinion causing disruption to the running of the Programme or to other participants.&nbsp;</p><p><strong>7.5.</strong> Where you have set up recurring payments, it is your responsibility to terminate these payments following termination of the Contract.&nbsp;</p><p><strong>7.6.</strong> On or before the date of termination of the Contract, you shall immediately pay any unpaid fees or other sums payable under these Terms (which for the avoidance of doubt shall include any remaining instalments regardless of the point at which the Contract is terminated).&nbsp;</p><p><strong>7.7</strong>. Termination of this agreement shall not affect the accrued rights, remedies, obligations and liabilities of either of us as at the date of termination of this Contract, including the right to claim damages in respect of any breach of the Contract which existed at or before the date of termination.&nbsp;</p><p><strong>7.8</strong>. Any delay by us in exercising our right to terminate the Contract shall not constitute a waiver of our right to terminate or to seek any other remedy.&nbsp;</p><p><strong>7.9.</strong> Paragraphs which expressly or by implication have effect after termination of the Contract shall continue in full force and effect after the date of termination of the Contract.&nbsp;</p><p><strong>7.10</strong>. This paragraph 7 shall survive termination of the Contract.&nbsp;</p><p><strong>7.11</strong>. Where the Contract expires, this shall be treated as a termination for the purposes of paragraph 7.7 and all other paragraphs that refer to “termination”.&nbsp;</p><p><strong>8. Liability&nbsp;</strong></p><p><strong>8.1</strong>. Nothing in this paragraph 8 shall limit our liability for death or personal injury caused by our negligence or for our fraud or fraudulent misrepresentation or for any matter for which liability cannot be legally excluded or limited.&nbsp;</p><p><strong>8.2.</strong> We shall not be liable for any loss of profits, loss of business, depletion of goodwill and/or similar losses, loss of anticipated savings, loss of goods, loss of contract, loss or corruption of data or information or any special, indirect, consequential or pure economic loss, costs, damages, charges or expenses suffered or incurred by the you as a result of you entering into the Contract and/or us providing the Programme.&nbsp;</p><p><strong>8.3</strong>. Our total liability in contract, tort (including negligence or breach of statutory duty), misrepresentation, restitution or otherwise arising in connection with the performance or contemplated performance of the Contract shall in all circumstances be limited to the price paid by you for the current cycle of the Programme.&nbsp;</p><p><strong>8.4</strong>. If we are prevented from or delayed in performing our obligations by your act or omission or by any circumstance outside of our control (including our illness or incapacity or that of any member of the team involved in providing the Programme), we shall not be liable to you for any costs, charges or losses sustained or incurred by you that arise directly or indirectly from such prevention or delay.&nbsp;</p><p><strong>8.5</strong>. We may make changes (and shall not be liable for any additional costs incurred by you or for any other liability incurred by you as a result of changes) in (i) the Programme, (ii) any other content, (iii) the location of venues, (iv) the time and date of sessions or (v) the delivery mode of the sessions (for example changing an in person session to an online session) (vi) trainers, instructors or coaches.&nbsp;</p><p><strong>8.6</strong>. The provisions of this paragraph 8 shall survive termination of the Contract.&nbsp;</p><p><strong>8.7</strong>. You acknowledge and agree that:&nbsp;</p><p><strong>8.7.1.</strong> The Contract constitutes the entire agreement and understanding between us and supersedes any previous arrangement, understanding or agreement between us relating to the provision of the Programme (which shall be deemed to&nbsp;have been terminated by mutual consent);</p><p><strong>8.7.2</strong>. in entering into the Contract you have not relied on any undertaking, promise, assurance, statement, representation,warranty or understanding (whether in writing or not) of any person (whether party to the Contract or not) relating to the provision of the Programme other than as expressly set out in the Contract.</p><p><strong>9. Guarantees</strong></p><p><strong>9.1 Satisfaction Guarantee</strong></p><p>We are committed to delivering a high-quality service that meets your expectations. If, within the first 14 calendar days of the commencement of services, you are not completely satisfied with our work, you may request a full refund of your initial investment. This refund will be processed promptly, and no further questions will be asked. This guarantee applies only to yourfirst service period and excludes subsequent renewals.</p><p><strong>9.2 90-Day Results Guarantee</strong></p><p>We are dedicated to helping you achieve measurable progress towards your specified goals within 90 calendar days from the start of our services. If you do not see measurable progress during this time, we will continue working with you at no additional cost until such progress is achieved.</p><p><strong>9.3 Definition of Measurable Progress</strong></p><p>For the purposes of the 90-Day Results Guarantee, measurable progress shall be assumed if the client renews the service for all three consecutive months covering the 90-day period. Renewal of the service for the third month shall be considered anacknowledgment by the client that they are satisfied with the progress made up to that point.</p><p><strong>9.4 Exclusions and Limitations</strong></p><p><strong>(a) </strong>The Guarantees outlined in this section are contingent upon the client’s active participation in the programme, timely provision of required information, and adherence to recommendations provided by the service team.</p><p><strong>(b) </strong>These Guarantees do not cover external factors beyond our control, including, but not limited to, unforeseen personal circumstances, third-party actions, or force majeure events.</p><p><strong>9.5 Claims Procedure</strong></p><p>To invoke either guarantee, the client must submit a written request via email to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:dave@theaccountabilitypartners.co.uk\">dave@clearaccountability.co.uk</a> within the applicable time frame (14 days for the Satisfaction Guarantee or within 7 days after the 90-day period for the Results Guarantee). Claims submitted outside these periods will not be honoured.</p><p><strong>10.General</strong></p><p><strong>10.1</strong>. By registering for our Programme you warrant that:</p><p><strong>10.1.1.</strong> You are legally capable of entering into binding contracts; and</p><p><strong>10.1.2.</strong> You are at least 18 years old; and</p><p><strong>10.1.3</strong>. Each party irrevocably agrees that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with this agreement or its subject matter or formation.</p><p><strong>10.1.4.</strong> That all information you provide us with is materially true and accurate at all times and not misleading in any way.</p><p><strong>10.2</strong>. You accept that communication with us will be mainly electronic. We will contact you by e-mail or provide you with information by posting notices on our site. You agree to this electronic means of communication and you acknowledge that all contracts, notices, information and other communications that we provide to you electronically comply with any legal requirement that such communications be in writing. This condition does not affect your statutory rights.</p><p><strong>10.3.</strong> We may vary these Terms (other than the price payable by you for the Programme) as we see fit from time to time and if we do, we shall notify you by email of the change of terms. Your continuation with the Programme will be deemed to be your acceptance of any new Terms</p><p><strong>10.4.</strong> The Contract is personal to you and you may not assign, transfer, charge, subcontract, sub-license or deal in any other manner with all or any of your rights under the Contract.</p><p><strong>10.5.</strong> We may transfer, assign, charge, sub-contract or otherwise dispose of a Contract, or any of our rights or obligations arising under it, at any time during the term of the Contract.</p><p><strong>10.6.</strong> If we fail to insist upon strict performance of any of your obligations under the Contract, or if we fail to exercise any of the rights or remedies to which we are entitled under the Contract, this shall not constitute a waiver of such rights or remedies and shall not relieve you from compliance with such obligations. A waiver by us of any default shall not constitute a waiver of any subsequent default. No waiver by us of any of these Terms shall be effective unless it is expressly stated to be a waiver and is in writing.</p><p><strong>10.7</strong>. If any of these Terms are determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision will to that extent be severed from the remaining terms, conditions and provisions which will continue to be valid to the fullest extent permitted by law.</p><p><strong>10.8.</strong> A person who is not a party to the Contract shall not have any rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of the Contract.</p><p><strong>10.9.</strong> The rights of the parties to terminate, rescind or agree any variation, waiver or settlement under the Contract are not subject to the consent of any person that is not a party to the Contract.</p><p><strong>10.10. </strong>We each irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with the Contract or its subject matter or formation (including non-contractual disputes or claims).&nbsp;</p><p><strong>10.11. </strong>Unless the context otherwise requires, a reference to one gender shall include a reference to the other gender.&nbsp;</p>",
+      "is_active": true,
+      "created_at": "2026-04-17T08:18:19.137408+00:00"
+    }
+  ],
+  "proposal_settings": [
+    {
+      "id": 1,
+      "default_intro": "Hi [Name],\n\nProcess from here:\n1) Sign this proposal\n2) Set Up the GoCardless link - https://pay.gocardless.com/BRT0002KKK53MDY\n3) Agree a time slot- [Booking Link]\n4) You will be sent a link to register for access to the software\n5) You will be sent a Zoom link for the recurring 40 minute meetings\n6) We crack on!\n\nReally looking forward to working with you\n\nThanks\nDave",
+      "updated_at": "2026-04-17T08:21:13.222849+00:00"
+    }
+  ]
+}
